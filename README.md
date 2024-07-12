@@ -1,1 +1,1 @@
-# Thunder
+Just a simple game.
